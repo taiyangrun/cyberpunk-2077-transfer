@@ -1,0 +1,8 @@
+interface:
+  display_name: "赛博朋克实况转绘"
+  short_description: "照片转赛博朋克2077夜之城截图质感提示词"
+  default_prompt: "使用 $cyberpunk-2077-transfer 将这张参考照片转成《赛博朋克2077》夜之城截图质感，并输出可复用提示词。"
+
+policy:
+  allow_implicit_invocation: true
+# skill: cyberpunk-2077-transfer
